@@ -23,8 +23,11 @@ After making the changes requested by the board, much of the data from the origi
 ![deliverable_one](https://github.com/dgeroux/School_District_Analysis/blob/main/deliverable_one.png)
 
 ### Deliverable Two
+Below is the table from the original analyis, which includes the math and reading scores for 9th graders at Thomas High School.
+![original_school_summary](https://github.com/dgeroux/School_District_Analysis/blob/main/Resources/original_school_summary.png)
 
-![deliverable_one](https://github.com/dgeroux/School_District_Analysis/blob/main/deliverable_one.png)
+Below is the most recent analysis, which removed the math and reading scores for 9th graders at Thomas High School. As mentioned above, the overall results remained largely unchanged. 
+![school_summary_unchanged](https://github.com/dgeroux/School_District_Analysis/blob/main/Resources/school_summary_unchanged.png)
 
 
 ## Summary
