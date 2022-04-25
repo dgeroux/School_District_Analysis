@@ -31,4 +31,10 @@ Below is the most recent analysis, which removed the math and reading scores for
 
 
 ## Summary
-The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
+There were a few minor changes that occurred after the second analysis:
+..* lower number of total students
+..* lower number of students accounted for at Thomas High School
+..* slightly lower average math score and slightly higher average reading score for Thomas High School
+..* the percentage passing math, reading, and the overall passing percentage all slightly dropped for Thomas High School
+
+The question we were looking to confirm or deny was "is there proof of academic dishonesty?". In my opinion, the above results (lack of significant changes) indicate that there was not academic dishonesty. 
