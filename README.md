@@ -17,9 +17,12 @@ A board of directors for a school district has provided raw data to be cleaned, 
 After providing the above deliverables, the school board notified me that these results show evidence of academic dishonesty; specifically, reading and math grades for Thomas High School 9th graders appear to have been altered. They asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. The board would like me to repeat the school district analysis that I did and write up a report to describe how these changes affected the overall analysis.
 
 ## Results
-After making the changes requested by the board, much of the data from the original analysis remained the same. The original data set is so large  and removing only a small portion of the data (math and reading scores for 9th graders at Thomas High School) would not drastically skew the data. Below is the table from the original analysis, which includes the math and reading scores for 9th graders at Thomas High School.
+After making the changes requested by the board, much of the data from the original analysis remained the same. The original data set is so large  and removing only a small portion of the data (math and reading scores for 9th graders at Thomas High School) would not drastically skew the data. 
 
-![Original Metrics](https://github.com/caseychen3605/School_District_Analysis/blob/main/Resources/school_original_metrics.PNG)
+### Deliverable One
+![deliverable_one](https://github.com/dgeroux/School_District_Analysis/blob/main/deliverable_one.png)
+
+
 
 
 ## Summary
