@@ -4,15 +4,15 @@ Click here to view the jupyter file: [School District Project](https://github.co
 ## Overview of Analysis
 A board of directors for a school district has provided raw data to be cleaned, organized, and analyzed. They originally tasked me with the following deliverables: 
 
-1.A high-level snapshot of the district's key metrics, presented in a table format
-2.An overview of the key metrics for each school, presented in a table format
-3.Tables presenting each of the following metrics:
-4.Top 5 and bottom 5 performing schools, based on the overall passing rate
-5.The average math score received by students in each grade level at each school
-6.The average reading score received by students in each grade level at each school
-7.School performance based on the budget per student
-8.School performance based on the school size 
-9.School performance based on the type of school
+1. A high-level snapshot of the district's key metrics, presented in a table format
+2. An overview of the key metrics for each school, presented in a table format
+3. Tables presenting each of the following metrics:
+4. Top 5 and bottom 5 performing schools, based on the overall passing rate
+5. The average math score received by students in each grade level at each school
+6. The average reading score received by students in each grade level at each school
+7. School performance based on the budget per student
+8. School performance based on the school size 
+9. School performance based on the type of school
 
 After providing the above deliverables, the school board notified me that these results show evidence of academic dishonesty; specifically, reading and math grades for Thomas High School 9th graders appear to have been altered. They asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. The board would like me to repeat the school district analysis that I did and write up a report to describe how these changes affected the overall analysis.
 
